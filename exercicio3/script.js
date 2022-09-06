@@ -1,5 +1,5 @@
 let nacionalidade = prompt("Qual a sua nacionalidade?");
-nacionalidade.toLocaleLowerCase;
+nacionalidade = nacionalidade.toLowerCase()
 
 const brasileira = "brasileira";
 const argentina = "argentina";
